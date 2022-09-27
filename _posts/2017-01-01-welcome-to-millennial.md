@@ -1,42 +1,91 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Story of a successful crowdfuding campaign"
+author: "Sreepriya Radhakrishnan"
 categories: documentation
-tags: [documentation,sample]
+tags: [documentation,Crowdfunding]
 image: cuba-1.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
-## Getting Started
+This is a friendly blog that comprises the plan and action of my crowdfunding campaign. I hope it helps someone to run their campaign successfully. 
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+It took me around a week to properly plan my campaign. I had no clue about how this will work. Thanks to Arya Murali for her blog 10 tips to run a successful crowdfunding campaign. 
 
-## Example Content
+Select a Crowdfunding Platform
+There are plenty of CF platforms on the internet. Thoroughly read the terms & conditions. For my CF campaign, I choose Ketto.org. 
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+ ## Why did I choose Ketto.org? 
+    It was the most familiar crowdfunding platform in my circle. That’s the main reason I choose Ketto. There are a few things you need to keep in mind when you start a campaign in Ketto for personal needs.
 
-## Questions?
+For personal needs, Ketto charges 5% of the total amount raised as Ketto Fee. 
+You can do your first withdrawal, only after hitting 50% of your goal. 
+You can withdraw contributions in $ during the campaign only if you’ve got a contribution in $ above or equal to $500. 
+The fund will get transferred to your account within 3-5 business days from the date of your withdrawal request.
+Even if you didn’t reach your goal, you are able to withdraw whatever amount you’ve raised within 15 days after the campaign’s end date. 
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Ketto has an amazing dashboard where you can see not just the successful transaction but also the failed transactions too. You can see the number of profile visits each day, the number of contributions in a day and, the amount raised in a day.
 
-## More Jekyll!
 
-### Lagrange
+## Budget
+The most important thing you should do when you’re planning a trip. Most of the crowdfunding platforms have fees. Like I said before Ketto charges 5% of the total amount as the fee, therefore, decide the amount you’ve to raise through crowdfunding accordingly. 
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+I crowdfunded not only for my air tickets to San Fransisco but also for my visa, stay and travel in the US for twelve days. The estimated amount including air ticket, B1/B2 US visa application, stay, travel was around $2100. 
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+Since I had a scholarship amount of $700 from CMX hub, around $1400 I had to raise through CF. 
 
-### Portfolio Jekyll Theme
+Friends and Family =  Your Personal Publicity Volunteer
+Trust me these people can make your campaign go viral. They are your biggest supporters and marketers. Some of them could be your potential contributors too. 
 
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
+$1 or $100 tell your close ones to contribute. Keep money flowing every day during your campaign. 
 
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
+Before starting your campaign, get your friends and family for the blast. Inform them, call everyone if possible, let them know what you’re going to do, and take them with you on the journey. 
 
-### Jekyll Starter Kit
 
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+It worked for me. I got immense support from my friends and family,  from sharing campaign links to the campaign updates they were with me. Put everyone under the pressure to share and support your campaign. With strong ties and weak ties, your campaign can become a movement. 
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+
+
+## About the campaign
+Tell them a compelling story. “Story Telling” is the best method to grab the attention of your audience. I wanted my story very simple and friendly. There are some key points you should cover in your story. 
+
+## I call it 3 Ws
+## What is the purpose of your campaign?
+## Why this amount?
+## Why should they contribute?
+
+The content you provide to your contributors’ matters a lot. I should be like when you read your final draft you should be like contributing to this campaign. 
+
+PS: Always think as a contributor when you write your story. 
+
+
+
+
+
+
+## 5. Social Media Post
+You should give campaign updates to your supports and contributors and at the same time, you don’t have to spam their feed. 
+
+
+A timely update is very important. The nature of updates should be different in different mediums. I choose Facebook, WhatsApp & Instagram for my daily updates. Use Twitter and Kett.org page for important updates like when I reach 50%, 80%, and 102% of my goal. 
+
+## Be creative
+
+Make others feel that this opportunity is very important and special for you. 
+It would be nice if you can create a template for posters so that you can use it throughout your campaign. Since I’m miserable at designing, my posters were not that cool (Sadly agree). But I tried to be a little creative. The cover picture of my campaign was a picture of an Aeroplane(which I drew using a pencil) and my passport and a pencil. I really loved my work (Self-appraisal, LOL). 
+
+
+
+## 6. Connect your contributors
+Email is the best way to connect to your contributors. Remember don’t spam their inbox. I mailed them for the first time when I achieve my target. I used the same cover picture for thanking them with a small change I gave color to my Aeroplane. They gave colors to my dreams. There were only 66 contributors. I tried not to automate emails. I mailed everyone personally. I couldn’t thank them enough for the love and support they gave me. Each and every reply from them filled my heart with love and my eyes with tears. When you write to them make it personalized. 
+
+
+
+
+
+
+
+There were a lot of mistakes I did in planning. I started my campaign at month-end and the best practice is to start it at the beginning of the month because that’s the time everyone has a salary in their account. I failed to post an update on Ketto pages. Running a crowdfunding campaign is like multitasking. You need to handle multiple roles. You have to be a content writer, social media marketer, public relations specialist, and project manager. Those 16 days were special. From receiving the first contribution at the midnight to ending the campaign with 102% of my goal was really exciting. Once again thanks to all my friends, family for your support and contribution. 
+
+
+
