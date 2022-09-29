@@ -1,157 +1,74 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+title: "Zee Camp"
+author: "Sreepriya"
+categories: documentation
+tags: [pehia]
 image: arctic-1.jpg
 ---
 
-# Markdown Support
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+Those thirteen days were unforgettable. It was a totally new experience for me. That was the first time, we are closely dealing with the transgender community. we (Pehia Foundation) tried our best to make them feel comfortable, to make a welcoming environment for them. 13 days, 3 different courses, and around 10-15 transgender persons from all over Kerala. 
 
-## Basic Formatting
+In this blog, I would like to share my personal experiences working with them and the curiosity I had while being with them and trying to be one of them to understand the problems they face. 
 
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
+The venue was Santhigiri Ashram in Aluva.  Zee Camp was a collaborative effort of the Pehia Foundation and Marthoma Navodaya Society.  The event was from Jan 5th, 2019 to Jan 13th, 2019. 
 
-## Paragraphs
+The program agenda was like Advanced Microsoft Office training in the first three days, then Introduction to Programming using Python for the next three days and in the last three days an Introduction to Web Development. 
 
-This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Since Enfa (cofounder of Pehia Foundation) had a class and part-time internship, she visited the program after her work. Me and Diya Liza Varghese (Volunteer) was there at the venue full time. Thank you so much to the Marthoma Navodaya Society for supporting us on this journey. They arranged food and accommodation for us and as well as for participants and speakers. 
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Day 0
+
+Jan 4th, 2018
+
+I was there at Santhigiri Ashram by evening 5 pm. We were expecting our fellow participants to be there by 6 pm. They came late because some strike was announced for the next two days all over Kerala. We(Me and Enfa) ‘were so happy. Because it was our dream to do something useful for the transgender community. In the initial stages of the Pehia Foundation, there were so many people who discouraged us from not to involve in transgender communities. Actually, they were not saying it, it felt like a warning to us. 
+
+We were scared too. I agree. We were afraid of the unknown. But we didn’t give up. We find different ways to reach these communities and thank Pirate Praveen and Sooraj Kenoth for connecting with Vijaya Raja Malika and Jijo Kuriakose from Queerala. We used to go for monthly meetups of Queerala to know the community and its members. 
+
+Finally the effort we put in started showing results. Our participants are here. We had dinner together. We took the initiative to build small conversations with them and we made sure that they’re comfortable. From the first day itself, they started their life experiences with us. They shared their feelings when their family and society rejected them. Some of them have not yet revealed their identity in their family. We sat with them and listen to them. We came to the problems they faced that we’d never imagined were there.
 
 
-## Headings
+Advanced Microsoft Office Training
 
-Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
+In the first course, we only had four participants, and Mr. Saji Kumar was their tutor. Saji sir has 6-year experience in training MS office. When I searched for a trainer, my first concern was whether they will be comfortable in mentoring the transgender community. I was really scared by the societal stereotyping which we were trying to undo through Pehla Foundation. When I spoke to Saji sir, he said that he had never trained transgender people and he doesn’t know how it will go. This was his only concern. I felt like we came to the right person. 
 
-# Heading One (h1)
+He really was. Three-day MS Office training turned out to be the best of three sessions we have planned. Our attendance was so happy and comfortable with their mentor. 
 
-## Heading Two (h2)
+“Saji sir treated us like his brother and sister. “- feedback from one of our Zee camp fellows.
 
-### Heading Three (h3)
+In these three days, they covered MS Word, MS PowerPoint, and MS Excel.
 
-#### Heading Four (h4)
+Too many people asked us “Why MS Office training?”
 
-##### Heading Five (h5)
+My answer to the question is, we organized Zee Camp for sharing some knowledge with the transgender community and we realized what they need is skills to get employment. We were not trying to make them programmers. This MS training was to upskill the community members so that they found more employable in-office tasks.
 
-###### Heading Six (h6)
+Introduction to Programming using Python
 
-## Links
+The second session was the introduction to programming using python and Anusree S, team members of the Pehia Foundation take lead for the session. An intro to git and GitHub were also included in the curriculum. 
 
-You can create an inline link by wrapping link text in square brackets `[ ]`, and then wrapping the URL in parentheses `( )`. For example, it is very easy to [link to Google!](http://google.com).
+“Encaging with them was a different experience in my life,” Anusree said. 
 
-## Blockquotes
+Our team was as curious as I was. This was our experiment event with the transgender community. Before the event, we were just quality advocated I would say. We tried to spread gender awareness through our programs. We held healthy discussions on gender awareness in every program we organize. 
 
-Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:
+I do remember, I and Enfa went for a talk together and after our session, one girl from the audience met us in person after the session and said that she is bisexual. At that time we were not connected with the LGBTQI community like Queerala. If we were connected at least it would have helped her to get mental/emotional support from the Queerala community. 
 
-> This quote will change your life.
 
-Multi line blockquote with a cite reference:
+On the second day, we had Rahul Ramesh, CTO, Entri App for mentor our Zee camp fellows. Some of them were really interested in learning programming and others find it very difficult to understand the logic. 
 
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+On the third day,  we were discussing the Transgender bill Amendment. 
+Introduction to Website Development
 
-## Code and Syntax Highlighting
+Mr. Geon George was the trainer. He was an engineering student and a good friend of Diya, our Ze camp volunteer. Geon is a great person, a simple thank you is not enough to thank him for supporting and for being a part of Pehla’s dream project.
 
-Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers - like GitHub or most Jekyll themes - support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. You can find the full list of supported programming languages [here](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers). Also, it is possible to do `inline code blocks`, by wrapping the text in ` ` ` quotations.
+Our number of participants increased. For web development, we had ten participants. Both transmen and transwomen persons. I met Hrithik there. He is a very charming person and soon we become friends. He is working as News Reader at Jeevan TV. He and Tripthi Shetty become the second transgender couple in Kerala. 
 
-```
-No language indicated, so no syntax highlighting.
-```
+Geon’s session was very interactive. He started it with the history of the internet and the web. I had the privilege to assist him with this track. While he explained how to use Visual Studio Code and HTML on the first day, I give them challenges to solve using what they have learned in the previous track. On the third day, Geon introduced various web frameworks and resources to learn it. Because we know that with one or two days’ session none can master a skill. They need to practice what they’ve learned. So he shared some valuable resources with them. 
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+Giri Chandanakadan, a transman and a Pehia Zee camp fellow 2019 have been placed in Profisglobal as a web/graphics designer. I hope Pehia will be able to host more such camps for transgender communities. 
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+Zee camp 2019 was one of the dream projects of Pehla Foundation which we really work hard for it to happen. Our sincere thanks to Preeti, program coordinator from Marthoma Navodaya Society for making this event possible and Rev Binu for providing the venue, food, and accommodation. 
 
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
+I hope we can organize more impactful programs in the future. 
 
-Another option is to embed your code through [Gist](https://en.support.wordpress.com/gist/).
-
-## Unordered and Numbered Lists
-
-You can make an unordered and nested list by preceding one or more lines of text with `-`, `*`, or `+`, and indenting sublists. The following lists show the full range of possible list formats.
-
-* List item one
-    * List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
-    * List item two
-    * List item three
-    * List item four
-* List item two
-* List item three
-* List item four
-
-Numbered lists are made by using numbers instead of bullet points.
-
-1. List item one
-    1. List item one
-        1. List item one
-        2. List item two
-        3. List item three
-        4. List item four
-    2. List item two
-    3. List item three
-    4. List item four
-2. List item two
-3. List item three
-4. List item four
-
-## MathJax Example
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) is a partial differential equation that describes how the quantum state of a quantum system changes with time:
-
-$$
-i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
-$$
-
-[Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j} $$
-
-## Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | :-------------------: | :-------------------- | --------------------:
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-## Embedding
-
-Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mthtn1X4eUY" frameborder="0" allowfullscreen></iframe>
-
-<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/paululele/timelines/755079130027352064">New Collection</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, which you can mix with Markdown if you like. A complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-## Useful Resources
-
-More information on Markdown can be found at the following links:
-
-- [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code)
-- [Quick Markdown Example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
-- [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
-- [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
-- [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
